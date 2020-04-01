@@ -55,3 +55,40 @@ Quanto mais difícil o desafio, maior a pontuação - Pontuação dinâmica
 
 - PPC (Programação)  
 
+
+## Como começar? 
+
+Identificar o tipo de problema 
+
+Verificar o que você tem no arquivo
+
+Dados e propriedades 
+
+Tem algo escondido? 
+
+Possíveis soluções para esse problema 
+
+Ferramentas 
+
+Resultado final 
+
+
+
+## Onde encontrar? 
+
+CTF Time 
+
+
+## Onde praticar? 
+
+- PicoCTF
+
+- Hack the Box 
+
+- Hack this Site
+
+- Over the Wire 
+
+- VulnHub
+
+- Crackmes
