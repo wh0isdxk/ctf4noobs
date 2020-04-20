@@ -1,12 +1,13 @@
 # ctf4noobs
 Resumão da massa sobre Capture the Flag. 
 
-### [O que é Capture the Flag?](
 
-### [Estilos]
+#### [O que é Capture the Flag?](https://github.com/wh0isdxk/ctf4noobs/blob/master/1-WTF.md#o-que-é-capture-the-flag)
 
-### [Tipos de Challenges](https://github.com/wh0isdxk/ctf4noobs/blob/master/1-WTF.md#tipos-de-challenges)
+#### [Estilos](https://github.com/wh0isdxk/ctf4noobs/blob/master/1-WTF.md#estilos)
 
-### [Onde praticar?]
+#### [Tipos de Challenges](https://github.com/wh0isdxk/ctf4noobs/blob/master/1-WTF.md#tipos-de-challenges)
 
-### [Comunidade]
+#### [Onde praticar?](https://github.com/wh0isdxk/ctf4noobs/blob/master/1-WTF.md#onde-praticar)
+
+#### [Comunidade](https://github.com/wh0isdxk/ctf4noobs/blob/master/1-WTF.md#onde-encontrar)
