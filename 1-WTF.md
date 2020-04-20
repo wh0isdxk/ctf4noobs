@@ -35,7 +35,7 @@ Quanto mais difícil o desafio, maior a pontuação - Pontuação dinâmica
 
 ### Tipos de Challenges:  
 
-- Reversing (Eng. Reversa
+- Reversing (Eng. Reversa)
 
 - Crypto (Criptografia)
 
