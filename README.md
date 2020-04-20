@@ -10,6 +10,8 @@ Resumão da massa sobre Capture the Flag.
 
 #### [Tipos de Challenges](https://github.com/wh0isdxk/ctf4noobs/blob/master/1-WTF.md#tipos-de-challenges)
 
+#### [Ferramentas](https://github.com/wh0isdxk/ctf4noobs/blob/master/2-tools.md)
+
 #### [Onde praticar?](https://github.com/wh0isdxk/ctf4noobs/blob/master/1-WTF.md#onde-praticar)
 
 #### [Comunidade](https://github.com/wh0isdxk/ctf4noobs/blob/master/1-WTF.md#onde-encontrar)
