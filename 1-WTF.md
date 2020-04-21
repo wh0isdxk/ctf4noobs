@@ -80,6 +80,9 @@ Ferramentas
 
 Resultado final 
 
+Mais informações sobre CTF podem ser encontradas [aqui](https://ctfs.github.io/resources/) e [aqui](https://trailofbits.github.io/ctf/forensics/) 
+
+Estudar write ups também é um bom caminho para encontrar um estilo de desafio que você mais se identifique e dar um norte de como começar uma resolução. Os write ups de CTFs já passados podem ser encontrados [aqui](https://ctftime.org/writeups). 
 
 
 ## Onde encontrar? 
