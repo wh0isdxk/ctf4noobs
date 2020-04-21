@@ -98,8 +98,9 @@ Estudar write ups também é um bom caminho para encontrar um estilo de desafio 
 
 ## Onde encontrar? 
 
-CTF Time 
+[CTF Time](https://ctftime.org/)
 
+Nesse site você é capaz de encontrar os próximos eventos e mais detalhes sobre rankings (mundial ou de acordo com cada país), verificar os membros que compôem um determinado time, consultar write ups e afins. 
 
 
 
