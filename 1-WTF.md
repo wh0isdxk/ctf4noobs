@@ -4,6 +4,9 @@ São competições, individuais ou em equipe, que envolvem conhecimento em diver
 Esses campeonatos geralmente duram de 24 a 48h, podendo ser online ou presenciais.  
 Atualmente algumas empresas utilizam os CTFs como meio de teste para entrada de novos colaboradores. 
 
+
+
+
 ### E o que eu preciso saber?
 
 - Challenges - são os problemas que deverão ser solucionados
@@ -16,6 +19,8 @@ Servidores, arquivos criptografados, binários, arquivos de captura de pacote (P
 - Hints - dicas fornecidas durante o evento
 
 - Write ups - passo-a-passo das challenges, resolução 
+
+
 
 
 ### Estilos: 
@@ -31,6 +36,8 @@ Quizzes e desafios onde você precisa submeter a resposta (a flag correta). Gera
 - Híbridos 
 
 Eventos que possuem desafios das duas categorias citadas a seguir. 
+
+
 
 
 ### Tipos de Challenges:  
@@ -64,6 +71,8 @@ Aqui temos challenges referentes à análises de pacote, protocolos, verificaç�
 Nessas challs, você vai se deparar com códigos (independente da linguagem), onde , possivelmente, você vai precisar realizar algumas alterações para que ele seja compilado e te retorne a flag. Podendo ser bem complexos. 
 
 
+
+
 ## Como começar? 
 
 Identificar o tipo de problema 
@@ -85,9 +94,13 @@ Mais informações sobre CTF podem ser encontradas [aqui](https://ctfs.github.io
 Estudar write ups também é um bom caminho para encontrar um estilo de desafio que você mais se identifique e dar um norte de como começar uma resolução. Os write ups de CTFs já passados podem ser encontrados [aqui](https://ctftime.org/writeups). 
 
 
+
+
 ## Onde encontrar? 
 
 CTF Time 
+
+
 
 
 ## Onde praticar? 
