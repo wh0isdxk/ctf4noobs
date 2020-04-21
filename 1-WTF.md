@@ -41,7 +41,11 @@ Eventos que possuem desafios das duas categorias citadas a seguir.
 
 - Forensics (Forense)
 
+Esses desafios são voltados para recuperação de dados, análise forense de memória, rede...
+
 - Steganography (Esteganografia) 
+
+Encontrar informações que estão ocultas em arquivos de imagem, aúdio e etc.
 
 - Miscellaneous (Diversos)
 
@@ -51,9 +55,13 @@ Eventos que possuem desafios das duas categorias citadas a seguir.
 
 - Networking (Redes)
 
+Aqui temos challenges referentes à análises de pacote, protocolos, verificações de dump de rede e similares. 
+
 - Pwnables/Exploitation (Exploração de binários).
 
 - PPC (Programação)  
+
+Nessas challs, você vai se deparar com códigos (independente da linguagem), onde , possivelmente, você vai precisar realizar algumas alterações para que ele seja compilado e te retorne a flag. Podendo ser bem complexos. 
 
 
 ## Como começar? 
