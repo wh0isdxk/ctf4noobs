@@ -22,15 +22,15 @@ Servidores, arquivos criptografados, binários, arquivos de captura de pacote (P
 
 - Attack/Defense
 
-- Red Team e Blue Team
+São estilos onde temos ambientes controlados com máquinas vulneráveis e/ou serviços que precisam ser explorados ou protegidos.
 
 - Jeopardy 
 
-- Quizzes, submeter a resposta 
-
-Quanto mais difícil o desafio, maior a pontuação - Pontuação dinâmica 
+Quizzes e desafios onde você precisa submeter a resposta. Geralmente quanto mais difícil o desafio, maior a pontuação (em um sistema de pontuação dinâmica) 
 
 - Híbridos 
+
+Eventos que possuem desafios das duas categorias citadas a seguir. 
 
 
 ### Tipos de Challenges:  
