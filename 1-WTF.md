@@ -6,16 +6,16 @@ Atualmente algumas empresas utilizam os CTFs como meio de teste para entrada de 
 
 ### E o que eu preciso saber?
 
-> Challenges - são os problemas que deverão ser solucionados
+- Challenges - são os problemas que deverão ser solucionados
 
-> Flag (bandeira) - o código que você precisará encontrar
+-  Flag (bandeira) - o código que você precisará encontrar
 Servidores, arquivos criptografados, binários, arquivos de captura de pacote (PCAP), imagens, textos, áudios…  
 
-> Scoreboard - ranking geral e dos jogadores 
+- Scoreboard - ranking geral e dos jogadores 
 
-> Hints - dicas fornecidas durante o evento
+- Hints - dicas fornecidas durante o evento
 
-> Write ups - passo-a-passo das challenges, resolução 
+- Write ups - passo-a-passo das challenges, resolução 
 
 
 ### Estilos: 
@@ -26,7 +26,7 @@ São estilos onde temos ambientes controlados com máquinas vulneráveis e/ou se
 
 - Jeopardy 
 
-Quizzes e desafios onde você precisa submeter a resposta. Geralmente quanto mais difícil o desafio, maior a pontuação (em um sistema de pontuação dinâmica) 
+Quizzes e desafios onde você precisa submeter a resposta (a flag correta). Geralmente quanto mais difícil o desafio, maior a pontuação (em um sistema de pontuação dinâmica) 
 
 - Híbridos 
 
