@@ -44,7 +44,11 @@ Eventos que possuem desafios das duas categorias citadas a seguir.
 
 - Reversing (Eng. Reversa)
 
+Nessas challenges, você precisa realizar um Reversing em um determinado arquivo para encontrar a flag. 
+
 - Crypto (Criptografia)
+
+Desafios que trazem algum tipo de criptografia que precisa ser quebrado. Podendo aparecer de diversas formas, como códigos, mensagens, escondidas em algum lugar, etc. 
 
 - Forensics (Forense)
 
@@ -64,9 +68,11 @@ Encontrar informações que estão ocultas em arquivos de imagem, aúdio e etc.
 
 Aqui temos challenges referentes à análises de pacote, protocolos, verificações de dump de rede e similares. 
 
-- Pwnables/Exploitation (Exploração de binários).
+- Pwnables/Exploitation (Exploração de binários)
 
-- PPC (Programação)  
+- PPC (Programação)
+
+Desafios que trazem a flag escondidas no código ou como retorno da implementação dele. 
 
 Nessas challs, você vai se deparar com códigos (independente da linguagem), onde , possivelmente, você vai precisar realizar algumas alterações para que ele seja compilado e te retorne a flag. Podendo ser bem complexos. 
 
