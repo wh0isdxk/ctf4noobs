@@ -6,4 +6,4 @@ Ele trazia o seguinte desafio:
 
 O cabeçalho trás como dica, que a criptografia usada nesse desafio foi "noticiada na mídia brasileira", dessa forma diminuimos bastante o escopo de busca e o que usar. 
 
-Como primeiro passo: jogar tudo no google, cláro. 
+Como primeiro passo: jogar tudo no google, claro. 
