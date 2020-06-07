@@ -12,4 +12,4 @@
 
 #### **4.** [Comunidade](./wtf.md#onde-encontrar)
 
-#### [Ferramentas](./tools.md)
+## [Ferramentas](./tools.md)
