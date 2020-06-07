@@ -1,17 +1,15 @@
 # ctf4noobs
-Resumão da massa sobre Capture the Flag. 
 
-![ctf](https://user-images.githubusercontent.com/37185061/79782717-e6ec0200-8315-11ea-821d-2d4e25b296a3.jpg)
+<div style="text-align:center"><img src="https://i.imgur.com/bnzzgoP.jpg" /></div>
 
+## [O que é Capture the Flag?](./wtf.md#o-que-é-capture-the-flag)
 
-#### [O que é Capture the Flag?](https://github.com/wh0isdxk/ctf4noobs/blob/master/1-WTF.md#o-que-é-capture-the-flag)
+#### **1.** [Estilos](./wtf.md#estilos)
 
-#### [Estilos](https://github.com/wh0isdxk/ctf4noobs/blob/master/1-WTF.md#estilos)
+#### **2.** [Tipos de Challenges](./wtf.md#tipos-de-challenges)
 
-#### [Tipos de Challenges](https://github.com/wh0isdxk/ctf4noobs/blob/master/1-WTF.md#tipos-de-challenges)
+#### **3.** [Onde praticar?](./wtf.md#onde-praticar)
 
-#### [Ferramentas](https://github.com/wh0isdxk/ctf4noobs/blob/master/2-tools.md)
+#### **4.** [Comunidade](./wtf.md#onde-encontrar)
 
-#### [Onde praticar?](https://github.com/wh0isdxk/ctf4noobs/blob/master/1-WTF.md#onde-praticar)
-
-#### [Comunidade](https://github.com/wh0isdxk/ctf4noobs/blob/master/1-WTF.md#onde-encontrar)
+#### [Ferramentas](./tools.md)
