@@ -11,3 +11,7 @@
 - VulnHub
 
 - Crackmes
+
+<p align="center">
+  <a href="./comunidade.md">PRÓXIMO</a>
+</p>

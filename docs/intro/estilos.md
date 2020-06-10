@@ -12,4 +12,6 @@ Quizzes e desafios onde você precisa submeter a resposta (a flag correta). Gera
 
 Eventos que possuem desafios das duas categorias citadas a seguir.
 
-####[<p style="text-align: center;">Próximo </p>](./tiposdechalls.md)
+<p align="center">
+  <a href="./tiposdechalls.md">PRÓXIMO</a>
+</p>

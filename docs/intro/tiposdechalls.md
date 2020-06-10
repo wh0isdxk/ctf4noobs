@@ -34,4 +34,6 @@ Desafios que trazem a flag escondidas no código ou como retorno da implementaç
 
 Nessas challs, você vai se deparar com códigos (independente da linguagem), onde , possivelmente, você vai precisar realizar algumas alterações para que ele seja compilado e te retorne a flag. Podendo ser bem complexos.
 
-####[<p style="text-align: center;">Próximo </p>](./praticar.md)
+<p align="center">
+  <a href="./praticar.md">PRÓXIMO</a>
+</p>
