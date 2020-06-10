@@ -25,7 +25,10 @@ Atualmente algumas empresas utilizam os CTFs como meio de teste para entrada de 
 - Ferramentas
 - Resultado final
 
-####[<p style="text-align: center;">Próximo </p>](./estilos.md)
+<p align="center">
+  <a href="./estilos.md">PRÓXIMO</a>
+</p>
+
 
 ## Comunidade
 
