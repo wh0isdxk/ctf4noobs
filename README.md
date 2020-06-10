@@ -1,4 +1,8 @@
-<div style="text-align:center"><img src="./assets/icons/ctf.png" /></div>
+<p align="center">
+  <a href="https://github.com/wh0isdxk/ctf4noobs"> </a>
+  <img width="460" height="300" src="./assets/icons/ctf.png">
+</p>
+
 
 ## Sobre o projeto
 
