@@ -1,10 +1,8 @@
 #### Um exemplo de Chall de Cripto, utilizado no Hackaflag etapa Campinas, 2019: 
 
-"Já tivemos algumas cifras noticiadas na mídia brasileira, vamos ver se você lembra!
+![challcripto](https://user-images.githubusercontent.com/37185061/83572179-73860480-a4ff-11ea-8828-3493303797ad.jpg)
 
-4MCKV8_K9A3723_4MCKV8_854659XTV8CK
 
-colocar no formato: HACKAFLAG{UPPERCASE}"
 
 
 #### Resolvendo
