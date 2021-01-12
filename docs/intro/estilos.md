@@ -10,7 +10,7 @@ Quizzes e desafios onde você precisa submeter a resposta (a flag correta). Gera
 
 ### Híbridos
 
-Eventos que possuem desafios das duas categorias citadas a seguir.
+Eventos que possuem desafios das duas categorias citadas acima.
 
 <p align="center">
   <a href="./tiposdechalls.md">PRÓXIMO</a>
